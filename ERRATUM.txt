@@ -1,0 +1,7 @@
+There are a few typos in the paper:
+Equation (1): \Sigma_2^2 should be just \Sigma_2
+Equation (2) should be \Sigma^{-1} = \Sigma_1^{-1} + \Sigma_2^{-1}
+
+" In all the simulations of the supplemental video, the threshold is set to double the the cost of the previous iteration’s best trajectory."
+Should be:
+" In all the simulations of the supplemental video, the threshold is set to double the the cost of the previous iteration’s best trajectory's last transition's cost."
