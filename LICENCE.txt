@@ -2,11 +2,14 @@ Notice for academic use:
 
 If you use this in work resulting in an academic publication, please cite the relevant publications, e.g., 
 
-Rajam‰ki, J., H‰m‰l‰inen, P., Augmenting Sampling Based Controllers with Machine Learning, SCA 2017
+Rajam√§ki, J., H√§m√§l√§inen, P., Augmenting Sampling Based Controllers with Machine Learning, SCA 2017
 
-H‰m‰l‰inen, P., Rajam‰ki, J., Liu, C.K., Online Control of Simulated Humanoids Using Particle Belief Propagation, Proc. SIGGRAPH 2015
+H√§m√§l√§inen, P., Rajam√§ki, J., Liu, C.K., Online Control of Simulated Humanoids Using Particle Belief Propagation, Proc. SIGGRAPH 2015
 
-H‰m‰l‰inen, P., Eriksson, S., Tanskanen, E., Kyrki, V., Lehtinen, J., Online Motion Synthesis Using Sequential Monte Carlo, Proc. SIGGRAPH 2014
+H√§m√§l√§inen, P., Eriksson, S., Tanskanen, E., Kyrki, V., Lehtinen, J., Online Motion Synthesis Using Sequential Monte Carlo, Proc. SIGGRAPH 2014
+
+
+The project contains external libraries "Open Dynamics Engine" in the folder ode-0.12 and "Eigen" in the folder eigen_332. The licensing of these differs from the rest of the project.
 
 
 
